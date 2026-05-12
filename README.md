@@ -56,14 +56,7 @@ Top skills covered: Financial Analysis, Financial Modeling
 
 ---
 
-## ✨ Competenze Principali
-- Area 1  
-- Area 2  
-- Area 3  
-- Software / strumenti rilevanti  
-
----
-
-## 📬 Contatti
-- **Email:** tuo@email.com  
-- **LinkedIn:** link  
+## 📬 Contacts
+- **Phone Number:** +39 3452882571
+- **Email:** chiararossetti221@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/chiara-rossetti-198a47358  
