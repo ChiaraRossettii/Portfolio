@@ -43,10 +43,16 @@ Poche righe che raccontano il valore del progetto..
 📄 [Document](./nomefile.pdf)
 
 ---
+## 🏅 Certifications 
+A set of certificates that reflect my commitment to continuous training and professional growth.
 
-## 🗂️ Altri Documenti
-- 📄 [Curriculum Vitae](./cv.pdf)  
-- 📝 [Presentazioni o report aggiuntivi](./nomefile.pdf)
+### 🎖️ Certification 1 – CFI Corporate Finance Foundations Professional Certificate
+Top skills covered: Corporate Finance, Financial Statement Analysis, Microsoft Excel
+📄 [Certificate](./nomefile.pdf)
+
+### 🎖️ Certificazione 2 – Nome
+Descrizione elegante e concisa del valore della certificazione.  
+📄 [Certificato](./nomefile.pdf)
 
 ---
 
