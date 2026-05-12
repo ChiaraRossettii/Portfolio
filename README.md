@@ -12,7 +12,7 @@ Here I collect a curated selection of my university projects, my thesis, and oth
 **Description:**  
 Una breve introduzione elegante e chiara al contenuto della tesi, agli obiettivi e ai risultati principali.
 
-📄 **Documento:** [Open thesis](./nomefile.pdf)
+📄 **Documents:** [Thesis](./nomefile.pdf) and [ExecutiveSummary](./nomefile.pdf)
 
 ---
 
@@ -20,11 +20,11 @@ Una breve introduzione elegante e chiara al contenuto della tesi, agli obiettivi
 
 ### 📘 Project 1 – Titolo del progetto
 Breve descrizione del progetto, del contesto e delle competenze sviluppate.  
-📄 [Document](./nomefile.pdf)
+📄 [Report](./nomefile.pdf) and [Presentation](./nomefile.pdf)
 
 ### 📗 Project 2 – Titolo del progetto
 Descrizione sintetica ma raffinata del lavoro svolto.  
-📄 [Document](./nomefile.pdf)
+📄 [Report](./nomefile.pdf)
 
 ### 📙 Project 3 – Titolo del progetto
 Poche righe che raccontano il valore del progetto.  
@@ -52,7 +52,7 @@ Top skills covered: Corporate Finance, Financial Statement Analysis, Microsoft E
 
 ### 🎖️ Certification 2 – Master Key Financial Analyst Skills
 Top skills covered: Financial Analysis, Financial Modeling
-📄 [Certificato](./CertificateOfCompletion_Master%20Key%20Financial%20Analyst%20Skills.pdf)
+📄 [Certificate](./CertificateOfCompletion_Master%20Key%20Financial%20Analyst%20Skills.pdf)
 
 ---
 
