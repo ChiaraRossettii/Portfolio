@@ -50,8 +50,8 @@ A set of certificates that reflect my commitment to continuous training and prof
 Top skills covered: Corporate Finance, Financial Statement Analysis, Microsoft Excel
 📄 [Certificate](./CertificateOfCompletion_CFI%20Corporate%20Finance%20Foundations%20Professional%20Certificate.pdf)
 
-### 🎖️ Certificazione 2 – Nome
-Descrizione elegante e concisa del valore della certificazione.  
+### 🎖️ Certification 2 – Master Key Financial Analyst Skills
+Top skills covered: Financial Analysis, Financial Modeling
 📄 [Certificato](./CertificateOfCompletion_Master%20Key%20Financial%20Analyst%20Skills.pdf)
 
 ---
