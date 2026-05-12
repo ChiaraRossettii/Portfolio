@@ -48,7 +48,7 @@ A set of certificates that reflect my commitment to continuous training and prof
 
 ### 🎖️ Certification 1 – CFI Corporate Finance Foundations Professional Certificate
 Top skills covered: Corporate Finance, Financial Statement Analysis, Microsoft Excel
-📄 [Certificate](./nomefile.pdf)
+📄 [Certificate](./CertificateOfCompletion_CFI Corporate Finance Foundations Professional Certificate.pdf)
 
 ### 🎖️ Certificazione 2 – Nome
 Descrizione elegante e concisa del valore della certificazione.  
