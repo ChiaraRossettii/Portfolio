@@ -17,15 +17,15 @@ Through a multiple case study of projects funded by Fondazione Comunitaria del V
 ## 📚 Academic Projects
 
 ### 📘 Project 1 – BMW GROUP’S FINANCIAL ANALYSIS
-Group Project Work for the Accounting, Finance and Control Course: a Financial analysis of the BMW Group
+Group Project Work for the Accounting, Finance & Control Course: a financial analysis of the BMW Group
 📄 [Report](./AFC_Report.pdf) 
 
 ### 📗 Project 2 – L'Oréal Brandstorm 2023
-Group Project Work for the Strategy&Marketing Course: partecipation to the L'Oréal Brandstorm 2023
+Group Project Work for the Strategy & Marketing Course: partecipation to the L'Oréal Brandstorm 2023
 📄 [Report](./L'Oréal_PW.pdf)
 
 ### 📙 Project 3 – Innovation Project
-Group Project Work for the Leadership&Innovation Course: this project develops AQUASENSE, a smart water filtration solution using NFC technology and sensors to monitor filter conditions in real time and improve water quality. It proposes a connected system that enhances user experience while promoting efficiency and sustainability. 
+Group Project Work for the Leadership & Innovation Course: this project develops AQUASENSE, a smart water filtration solution using NFC technology and sensors to monitor filter conditions in real time and improve water quality. It proposes a connected system that enhances user experience while promoting efficiency and sustainability. 
 📄 [Document](./Report_L&I.pdf)
 
 ### 📘 Project 4 – DLT for Bond Markets: A Sustainable and Scalable Infrastructure for Euronext
