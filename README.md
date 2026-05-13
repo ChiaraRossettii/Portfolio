@@ -6,11 +6,9 @@ Here I collect a curated selection of my university projects, my thesis, and oth
 ---
 
 ## 🎓 Master Thesis
-**Title:**  
-*A Taxonomy of Theory of Change Applications: An Empirical Study in the Third Sector*  
+**Title:**  *A Taxonomy of Theory of Change Applications: An Empirical Study in the Third Sector*  
 
-**Description:**  
-This thesis examines how Third Sector Organisations adopt the Theory of Change in practice, with the aim of understanding the different ways this tool is used for planning, learning, and impact assessment.
+**Description:**  This thesis examines how Third Sector Organisations adopt the Theory of Change in practice, with the aim of understanding the different ways this tool is used for planning, learning, and impact assessment.
 Through a multiple case study of projects funded by Fondazione Comunitaria del Varesotto, it develops a taxonomy of ToC applications, showing how organisational, managerial, and contextual factors shape different levels of maturity in impact evaluation practices..
 
 📄 **Documents:** [Thesis](./Rossetti_Thesis.pdf) and [ExecutiveSummary](./Rossetti_ExecutiveSummary.pdf)
