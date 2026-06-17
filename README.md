@@ -46,7 +46,7 @@ Top skills covered: Financial Analysis, Financial Modeling
 
 ### 🎖️ Certification 3 – Atlassian Agile Project Management Professional Certificate
 Top skills covered: Jira, Agile Methodologies Agile Project Management
-📄 [Certificate](./CertificateOfCompletion_Atlassian%Agile%Project%Management%Professional%Certificate%(1).pdf)
+📄 [Certificate](./CertificateOfCompletion_Atlassian%Agile%Project%Management%Professional%Certificate.pdf)
 
 ---
 
