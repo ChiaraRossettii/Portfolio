@@ -44,6 +44,9 @@ Top skills covered: Corporate Finance, Financial Statement Analysis, Microsoft E
 Top skills covered: Financial Analysis, Financial Modeling
 📄 [Certificate](./CertificateOfCompletion_Master%20Key%20Financial%20Analyst%20Skills.pdf)
 
+### 🎖️ Certification 3 – Atlassian Agile Project Management Professional Certificate
+Top skills covered: Jira, Agile Methodologies Agile Project Management
+📄 [Certificate](./CertificateOfCompletion_Master%20Key%20Financial%20Analyst%20Skills.pdf)
 ---
 
 ## 📬 Contacts
