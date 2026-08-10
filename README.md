@@ -49,8 +49,8 @@ Top skills covered: Jira, Agile Methodologies Agile Project Management
 📄 [Certificate](./CertificateOfCompletion_Atlassian%Agile%Project%Management%Professional%Certificate.pdf)
 
 ### 🎖️ Certification 4 – Data Engineering Foundations Professional Certificate
-Top skills covered: Data Engineering, Data Governance, SQL, Data Wearhousing
-📄 [Certificate](./CertificateOfCompletion_Atlassian%Agile%Project%Management%Professional%Certificate.pdf)
+Top skills covered: Data Engineering, Data Governance, SQL, Data Warehousing
+📄 [Certificate](./CertificateOfCompletion_Data%Engineering%Foundations%Professional%Certificate%by%Astronomer.pdf)
 
 ---
 
