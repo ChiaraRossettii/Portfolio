@@ -54,7 +54,7 @@ Top skills covered: Data Engineering, Data Governance, SQL, Data Warehousing
 
 ### 🎖️ Certification 5 – Aha! Product Management Professional Certificate
 Top skills covered: Product Management, Product Strategy, Product Road Management, Technical Product Management 
-📄 [Certificate](./CertificateOfCompletion_Data%Engineering%Foundations%Professional%Certificate%by%Astronomer.pdf)
+📄 [Certificate](./CertificateOfCompletion%Aha%Product%Management%Professional%Certificate.pdf)
 
 ---
 
