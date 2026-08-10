@@ -48,8 +48,12 @@ Top skills covered: Financial Analysis, Financial Modeling
 Top skills covered: Jira, Agile Methodologies Agile Project Management
 📄 [Certificate](./CertificateOfCompletion_Atlassian%Agile%Project%Management%Professional%Certificate.pdf)
 
-### 🎖️ Certification 4 – Data Engineering Foundations Professional Certificate
+### 🎖️ Certification 4 – Data Engineering Foundations Professional Certificate by Astronomer
 Top skills covered: Data Engineering, Data Governance, SQL, Data Warehousing
+📄 [Certificate](./CertificateOfCompletion_Data%Engineering%Foundations%Professional%Certificate%by%Astronomer.pdf)
+
+### 🎖️ Certification 5 – Aha! Product Management Professional Certificate
+Top skills covered: Product Management, Product Strategy, Product Road Management, Technical Product Management 
 📄 [Certificate](./CertificateOfCompletion_Data%Engineering%Foundations%Professional%Certificate%by%Astronomer.pdf)
 
 ---
